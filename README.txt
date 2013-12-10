@@ -5,6 +5,7 @@ Tags: WordPress, BuddyPress, OER, Open Educational Resources, ukeor, oerri, Rapi
 
 Tested up to: WordPress 3.5.1, BuddyPress 1.6.4
 
+Test hooks
 
 == Licence ==
 
