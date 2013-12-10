@@ -1,4 +1,3 @@
-
 === Bebop ===
 
 Contributors: Dale Mckeown
